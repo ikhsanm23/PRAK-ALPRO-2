@@ -10,12 +10,12 @@ public:
     cout << "3) Udang goreng Rp. 19000 \n";
     cout << "4) Cumi goreng Rp. 20000 \n";
     cout << "5) Ayam bakar Rp. 25000 \n";
-    cout<<"Pesan Ayam geprek  : "; cin >> bnyk_gprk;
-    cout<<"Pesan Ayam goreng  : "; cin >> bnyk_aymgrg;
-    cout<<"Pesan Udang goreng : "; cin >> bnyk_udanggrg;
-    cout<<"Pesan Cumi goreng  : "; cin >> bnyk_cumigrg;
-    cout<<"Pesan Ayam bakar   : "; cin >> bnyk_aymbkr;
-    cout<<"Jarak rumah anda   : "; cin >> jrk;
+    cout<<"Pesan Ayam geprek  : "; cin >>bnyk_gprk;
+    cout<<"Pesan Ayam goreng  : "; cin >>bnyk_aymgrg;
+    cout<<"Pesan Udang goreng : "; cin >>bnyk_udanggrg;
+    cout<<"Pesan Cumi goreng  : "; cin >>bnyk_cumigrg;
+    cout<<"Pesan Ayam bakar   : "; cin >>bnyk_aymbkr;
+    cout<<"Jarak rumah anda   : "; cin >>jrk;
     
   }
     void toFile() {
