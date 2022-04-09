@@ -22,7 +22,6 @@ public :
     }
     ambil_data.close();
   }
-
 private :
   ifstream ambil_data;
   string data_file[30];
